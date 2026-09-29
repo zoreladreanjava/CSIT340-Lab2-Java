@@ -1,12 +1,13 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 
-function App () {
+function App() {
   return (
     <>
       <Navbar />
-    <h1 className="text-3xl font-bold p-6">Hello World</h1>
+      <Hero />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -9,7 +9,7 @@ function Hero() {
         Zorel Adrean R. Java
       </h1>
       <p className="mt-4 max-w-xl text-lg leading-relaxed text-stone-600">
-        A third year IT student who builds small web apps.
+        A third year IT student who builds small software projects.
       </p>
       <div className="mt-8 flex gap-3">
         <a

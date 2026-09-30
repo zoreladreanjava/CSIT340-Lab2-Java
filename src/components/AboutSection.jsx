@@ -9,7 +9,7 @@ function AboutSection() {
     >
       <SectionHeading title="About" subtitle="A little about who I am." />
       <p className="mt-6 max-w-2xl leading-relaxed text-stone-700">
-        I'm a returnee student who went back to college last 2024. I shifted to
+        I'm a returnee student who went back to college last January 2024. I shifted to
         BSIT from my previous courses which are Computer Engineering and BSMATH
         (Batch 2013). What I like about this course is that it builds up my
         passion of tinkering computers either software or hardware related.
